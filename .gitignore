@@ -1,0 +1,19 @@
+ 
+ # Ignore Visual Studio temporary files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# Ignore build outputs
+*.dll
+*.pdb
+
+# Ignore sensitive data
+appsettings.json
+appsettings.Development.json
+
+# Ignore OS/system files
+Thumbs.db
+*.log
