@@ -40,6 +40,7 @@ dotnet add package Microsoft.Extensions.Logging
 dotnet add package Microsoft.Extensions.Logging.Console
 dotnet add package BCrypt.Net-Next
 dotnet add package MongoDB.Driver
+
 ---
 ## Google SMTP Setup
 
